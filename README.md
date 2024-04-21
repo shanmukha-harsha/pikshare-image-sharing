@@ -1,5 +1,6 @@
 **Image Sharing Platform**
 
+**(REACT, NODE, POSTGRESQL)**
 
 Welcome to our Image Sharing Platform! Our platform allows users to sign in, sign up, post pictures, and view pictures posted by others. Whether you're looking to share your favorite images or discover new ones, our platform provides a seamless and enjoyable experience for users.
 
